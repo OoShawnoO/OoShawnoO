@@ -1,5 +1,4 @@
 ### Hi there 👋
-# 靓仔们 用爬虫代码的时候 请换自己的一些 key 和 cookies
 <!--
 **OoShawnoO/OoShawnoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+### I'm Zhida Hu
+- A C++ development engineer who is about to join Baidu.
+- 🌱 Currently study in ChongQing, China.
+- 💬 Ask me about C++,Python and my projects on [840831038@qq.com](mailto:840831038@qq.com)
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=OoShawnoO&show_icons=true&theme=dark&count_private=true)
 
 
