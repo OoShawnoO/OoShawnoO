@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### 我是胡志达 | I'm Zhida Hu
+### 我是OoShawnoO | I'm OoShawnoO
 - 一个即将入职的C++开发工程师
 - A C++ development engineer who is about to join Company.
 - 🌱 现在正在重庆学习
