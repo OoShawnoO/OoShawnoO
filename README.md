@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### 我是OoShawnoO | I'm OoShawnoO
 - 一个即将入职的C++开发工程师
 - A C++ development engineer who is about to join Company.
-- 🌱 现在正在重庆学习
-- 🌱 Currently study in ChongQing, China.
+- 🌱 现在正在北京工作
+- 🌱 Currently working in BeiJing, China.
 - 💬 Ask me about C++,Python and my projects on [840831038@qq.com](mailto:840831038@qq.com)
 
 ### 🛠 技术栈 | Tech Stack
