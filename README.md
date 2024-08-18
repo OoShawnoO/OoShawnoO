@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 我是OoShawnoO | I'm OoShawnoO
-- 一个即将入职的C++开发工程师
+- 一个普通的开发工程师
 - A C++ development engineer who is about to join Company.
 - 🌱 现在正在北京工作
 - 🌱 Currently working in BeiJing, China.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - C++ [ 熟练 | skilled ]
 - Python [ 熟练 | skilled ]
 - Linux [ 普通 | normal ]
-- Golang [ 生疏 | rusty ]
+- Golang [ 普通 | normal ]
 - Kotlin [ 生疏 | rusty ]
 - Java [ 生疏 | rusty ]
 
