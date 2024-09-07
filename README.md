@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 我是OoShawnoO | I'm OoShawnoO
 - 一个普通的开发工程师
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=OoShawnoO&show_icons=true&theme=neon&count_private=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OoShawnoO&theme=neon&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OoShawnoO&theme=neon&layout=compact">
 
 
