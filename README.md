@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### 我是OoShawnoO | I'm OoShawnoO
 - 一个普通的开发工程师
-- A C++ development engineer who is about to join Company.
+- A normal development engineer.
 - 🌱 现在正在北京工作
 - 🌱 Currently working in BeiJing, China.
-- 💬 Ask me about C++,Python and my projects on [840831038@qq.com](mailto:840831038@qq.com)
+- 💬 Contact me: [840831038@qq.com](mailto:840831038@qq.com)
 
 ### 🛠 技术栈 | Tech Stack
 - C++ [ 熟练 | skilled ]
