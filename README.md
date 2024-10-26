@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 
 ### 🛠 技术栈 | Tech Stack
 - C++ [ 熟练 | skilled ]
-- Python [ 熟练 | skilled ]
-- Linux [ 普通 | normal ]
 - Golang [ 普通 | normal ]
-- Kotlin [ 生疏 | rusty ]
-- Java [ 生疏 | rusty ]
+- k8s & volcano [ 普通 | noraml ]
 
 
 
