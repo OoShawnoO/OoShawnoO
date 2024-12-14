@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 - A normal development engineer.
 - 🌱 现在正在北京工作
 - 🌱 Currently working in BeiJing, China.
-- 💬 Contact me: [840831038@qq.com](mailto:840831038@qq.com)
-
-### 🛠 技术栈 | Tech Stack
-- C++ [ 熟练 | skilled ]
-- Golang [ 普通 | normal ]
-- k8s & volcano [ 普通 | noraml ]
-
+- 💬 Contact me: [grephzd@gmail.com](mailto:grephzd@gmail.com)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=OoShawnoO&show_icons=true&theme=neon&count_private=true)
