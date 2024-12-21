@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working in BeiJing, China.
 - 📫 Contact me: [grephzd@gmail.com](mailto:grephzd@gmail.com)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huzhida&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huzhida&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/huzhida)
 
 <div align="center">
   <a href="https://github.com/huzhida">
