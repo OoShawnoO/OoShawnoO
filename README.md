@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-**OoShawnoO/OoShawnoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**huzhida/huzhida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm OoShawnoO
+### I'm Zhida Hu
 - A normal development engineer.
 - 🌱 Currently working in BeiJing, China.
 - 💬 Contact me: [grephzd@gmail.com](mailto:grephzd@gmail.com)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=OoShawnoO&show_icons=true&theme=neon&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OoShawnoO&theme=neon&layout=compact">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=huzhida&show_icons=true&theme=neon&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzhida&theme=neon&layout=compact">
 
 
