@@ -18,9 +18,19 @@ Here are some ideas to get you started:
 - 🔭 Currently working in BeiJing, China.
 - 📫 Contact me: [grephzd@gmail.com](mailto:grephzd@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzhida&theme=neon&layout=compact">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huzhida&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=huzhida&show_icons=true&theme=neon&count_private=true)
+<div align="center">
+  <a href="https://github.com/huzhida">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzhida&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="huzhida"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzhida&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="huzhida"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/huzhida">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzhida&&theme=tokyonight" alt="huzhida" />
+  </a>
+</p>
 
 
 
