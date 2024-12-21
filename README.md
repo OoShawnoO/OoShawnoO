@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 -->
 <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### 我是OoShawnoO | I'm OoShawnoO
-- 一个普通的开发工程师
+### I'm OoShawnoO
 - A normal development engineer.
-- 🌱 现在正在北京工作
 - 🌱 Currently working in BeiJing, China.
 - 💬 Contact me: [grephzd@gmail.com](mailto:grephzd@gmail.com)
 
