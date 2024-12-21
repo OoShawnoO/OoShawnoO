@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm Zhida Hu
-- A normal development engineer.
-- 🌱 Currently working in BeiJing, China.
-- 💬 Contact me: [grephzd@gmail.com](mailto:grephzd@gmail.com)
+- 😄 A normal development engineer.
+- 🔭 Currently working in BeiJing, China.
+- 📫 Contact me: [grephzd@gmail.com](mailto:grephzd@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzhida&theme=neon&layout=compact">
 
